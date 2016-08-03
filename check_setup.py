@@ -11,7 +11,7 @@ from kivy.uix.button import Button
 import sys
 
 
-class TestApp(App):
+class CheckSetupApp(App):
 
     def build(self):
         return Button(text='hello world')
@@ -20,4 +20,4 @@ class TestApp(App):
 if __name__ == '__main__':
     # In PyCharm, right-click here and choose 'Run check_setup'
     print("Python version information:", sys.version)
-    TestApp().run()
+    CheckSetupApp().run()
