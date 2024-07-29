@@ -1,11 +1,13 @@
-# CP1401 & CP1404 Starter Guides
+# Programming Guides
 
 This is a repository with sample Python code for IT@JCU, mainly for CP1401 and CP1404 subjects.
 
 This repository also houses our [Wiki of useful guides](https://github.com/CP1404/Starter/wiki), including the famous:
 
 * [Programming Patterns](https://github.com/CP1404/Starter/wiki/Programming-Patterns)
-* [Styles and Conventions](https://github.com/CP1404/Starter/wiki/Styles-and-Conventions)
+* [Style Guide](https://github.com/CP1404/Starter/wiki/Style-Guide)
+* [Pseudocode Guide](https://github.com/CP1404/Starter/wiki/Pseudocode-Guide)
+* [Software setup instructions for Python, Git, GitHub and Kivy on your Windows PC or Mac](https://github.com/CP1404/Starter/wiki/Software-Setup)
 
 # CP1404 Boot Camp
 
@@ -20,13 +22,8 @@ There is definitely not enough here to substitute for the whole CP1401 subject.
 Good programming, in any language, usually involves applying common 'patterns' and best-practices to solve problems.  
 Good code is consistent, readable (easy to understand), follows accepted conventions, and other quality attributes - in
 addition to simply working correctly.  
-The following guides are intended as a useful reference to help you write good code (and pseudocode), particularly in
+The set of guides linked above are a useful reference to help you write good code and pseudocode, particularly in
 Python.
-
-* [Instructions to set up Python, Git, GitHub and Kivy on your Windows or Mac PC](https://github.com/CP1404/Starter/wiki/Software-Setup)
-* [Programming Patterns](https://github.com/CP1404/Starter/wiki/Programming-Patterns)
-* [Style Guide](https://github.com/CP1404/Starter/wiki/Style-Guide)
-* [Good Pseudocode](https://github.com/CP1404/Starter/wiki/Pseudocode-Guide)
 
 ## CP1401 Practicals
 
