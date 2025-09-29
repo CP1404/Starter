@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 340 240">
+  <rect width="100%" height="100%" fill="white"/>
+  <!-- Large summation symbol -->
+  <text x="90" y="140" font-family="Times, 'Times New Roman', serif" font-size="160" font-weight="700">∑</text>
+
+  <!-- Upper limit 'n' placed higher above -->
+  <text x="125" y="22" font-family="Times, 'Times New Roman', serif" font-size="36">n</text>
+
+  <!-- Lower limit 'i=0' clearly below -->
+  <text x="125" y="205" font-family="Times, 'Times New Roman', serif" font-size="28">i=0</text>
+
+  <!-- Expression to the right, moved closer but not overlapping -->
+  <text x="220" y="115" font-family="Times, 'Times New Roman', serif" font-size="64">x<tspan baseline-shift="sub" font-size="34">i</tspan></text>
+</svg>
